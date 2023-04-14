@@ -110,6 +110,7 @@ if __name__ == '__main__':
         with open('path.txt', 'w') as file:
             file.write(config)
 
+        # Restart application to update placeholder text    
         python = sys.executable
         os.execl(python, python, * sys.argv)
 
