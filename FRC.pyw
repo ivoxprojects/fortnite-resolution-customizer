@@ -59,7 +59,7 @@ class App(customtkinter.CTk):
                 with open('path.txt', 'w') as file:
                     file.write(self.default)
 
-        # Confirm Existnace
+        # Confirm Existance
         with open('path.txt', 'r') as file:
                 return file.read()
 
