@@ -1,2 +1,2 @@
-![github](https://user-images.githubusercontent.com/119132476/232125317-c495baaf-a111-4cac-aa3a-47316caa5dc3.png)
+![github](https://user-images.githubusercontent.com/119132476/232125454-8fdec158-445c-49ab-974b-dddb40b1699a.png)
 # Fortnite Resolution Customizer
