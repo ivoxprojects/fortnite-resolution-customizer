@@ -1,8 +1,8 @@
 ![github](https://user-images.githubusercontent.com/119132476/232125454-8fdec158-445c-49ab-974b-dddb40b1699a.png)
 ## System requirements
 - OS: Windows 7-11
-- Python 3.11 or above (No need to install python when using the exe version)
-- Packages needed
+- Python 3.11 or above `No need to install python when using the exe version`
+- Packages needed `install them all at once using > pip install -r requirements.txt`
   - customtkinter
   - configparser
   - os
