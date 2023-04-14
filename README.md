@@ -3,11 +3,11 @@
 - OS: Windows 7-11
 - Python 3.11 or above (No need to install python when using the exe version)
 - Packages needed
-  1. customtkinter
-  2. configparser
-  3. os
-  4. ctypes
-  5. sys
+  - customtkinter
+  - configparser
+  - os
+  - ctypes
+  - sys
 - For windows desktop only
 
 ## Features
